@@ -28,3 +28,5 @@ To get started with the Disaster and Emergency Aid Management application, follo
 1. Clone the repository to your local machine.
 2. Compile the C++ source code using your preferred compiler.
 3. Run the compiled executable to launch the application.
+
+[Click Here](EAM-console/sample_output.txt) for sample output
